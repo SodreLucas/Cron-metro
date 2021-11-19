@@ -11,7 +11,7 @@ function twoDigits(digit) {
 }
 
 
-function play(){
+function start(){
     watch()
     interval = setInterval (watch, 1000)
 }
